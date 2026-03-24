@@ -1,6 +1,10 @@
 ---
 name: vehicle-os
+version: 1.0.0
 description: Track service history, maintenance schedules, mechanics, registration, insurance, and admin for all your vehicles. Built-in maintenance knowledge with mileage and time-based intervals. Supports cars, trucks, motorcycles, boats, RVs, and trailers. Use when anyone mentions an oil change, tire rotation, mechanic, car repair, registration, or vehicle maintenance.
+metadata:
+  openclaw:
+    emoji: 🚗
 ---
 
 # Vehicle OS
